@@ -8,4 +8,6 @@ https://www.flexclip.com/
 https://www.purple-planet.com/cinematic && https://www.purple-planet.com/using-our-free-music
 https://allthefreestock.com/
 https://creator.nightcafe.studio/
+https://pixabay.com/videos/
+https://blog.vreel.co/free-drone-footage/
 ```
