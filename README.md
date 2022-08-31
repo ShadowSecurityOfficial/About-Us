@@ -5,7 +5,7 @@ Thanks to:
 
 ```
 https://www.flexclip.com/
-https://www.purple-planet.com/cinematic
+https://www.purple-planet.com/cinematic && https://www.purple-planet.com/using-our-free-music
 https://allthefreestock.com/
 https://creator.nightcafe.studio/
 ```
