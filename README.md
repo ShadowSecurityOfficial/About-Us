@@ -1,6 +1,9 @@
 # About-Us
 What our organization is about? Checkout the video under releases to find out.
 
+# TLDR
+
+We are all about innovation, we support the innovation of the Cybersecurity and Computer Science world and we provide the tools in order to achieve higher ability. 
 
 # Thanks to:
 
