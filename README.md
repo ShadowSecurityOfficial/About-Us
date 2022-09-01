@@ -1,7 +1,8 @@
 # About-Us
-What our organization is about?
+What our organization is about? Checkout the video under releases to find out.
 
-Thanks to:
+
+# Thanks to:
 
 ```
 https://www.flexclip.com/
