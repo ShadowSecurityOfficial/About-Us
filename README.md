@@ -12,4 +12,5 @@ https://pixabay.com/videos/
 https://www.pexels.com/
 https://unsplash.com/
 https://mixkit.co/
+https://online-video-cutter.com/remove-logo
 ```
